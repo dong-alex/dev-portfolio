@@ -1,0 +1,21 @@
+{
+  "name": "dev-portfolio",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^1.2.2",
+    "@astrojs/tailwind": "^3.1.2",
+    "astro": "^2.3.4",
+    "astro-robots-txt": "^0.5.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
