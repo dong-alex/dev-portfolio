@@ -12,9 +12,9 @@ export const info = {
       endDate: 'Present',
       description: [
         '- Released new features nearly monthly for over 200 security engineers, covering full-stack work using Golang and TypeScript w/ React. Our application helps to deprecate ES & Kibana being used with Zendesk, effectively reducing ticketing times by 77%.',
-        '- Introduced react-query to separate asynchronous state and incorporate caching for an internal application used by security engineers. This replaced redux sagas and decreased API calls by over 50%.',
-        '- Worked closely with the program manager to conceptualize and release a full feature capable of allowing shared environments during shifts. This provided a clear separation of concerns between shared and consolidated views.',
-        '- Collaborated as a solo developer with a team of managers/leads in a week long hackathon to provide an all in one view of Zendesk metrics, Confluence updates, and 24/7 shift schedules. This POC placed 1st in customer satisfaction and was promoted to be an oncoming project in future quarters.',
+        '- Collaborated to serve globalization capabilities to our 24-hour triaging application, allowing a single pane of data streaming from multiple regions. This caused a 66% reduction of mental overhead on multiple region specific navigations and future proofed company expansion to new regions.',
+        '- Introduced react-query to separate asynchronous state and incorporate caching into the triaging software. This replaced redux sagas and decreased API calls by over 50%.',
+        '- Worked closely with the program manager to conceptualize and release a full feature capable of allowing shared environments during triaging shifts. This provided a clear separation of concerns between shared and consolidated workspaces.',
         '- Involved with the full interview process and mentorship for co-ops and new grads every quarter, as well as the screening process for full time candidates.',
       ],
     },
