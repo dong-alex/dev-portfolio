@@ -1,0 +1,15 @@
+---
+interface IHero {
+  name: string
+  about: string
+}
+
+const { name, about } = Astro.props as IHero
+---
+
+<section>
+  <h1 class="dark:text-light text-5xl leading-normal">{name}</h1>
+  <p class="dark:text-light text-lg mt-16 mb-16">
+    {about}
+  </p>
+</section>
