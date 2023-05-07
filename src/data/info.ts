@@ -7,7 +7,7 @@ export const info = {
     {
       name: 'Arctic Wolf',
       location: 'Kitchener, Waterloo',
-      position: 'Software Engineer',
+      position: 'Full-Stack Software Engineer',
       startDate: 'Jan 2021',
       endDate: 'Present',
       description: [
