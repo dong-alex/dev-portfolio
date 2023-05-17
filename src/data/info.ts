@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: 'https://alex-dong-portfolio.vercel.app',
+  baseUrl: 'https://alex-dong.com',
   name: 'Alex Dong',
   about: `3+ years of software engineering working with React, TypeScript, and Golang.`,
 
